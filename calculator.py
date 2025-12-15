@@ -1,3 +1,4 @@
+#Новое описание 1
 def get_area(a, b):
     return a * b
 
